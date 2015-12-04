@@ -1,8 +1,0 @@
-# Because OSX
-.DS_Store
-
-# Ignore Sublime project files.
-*.sublime*
-
-# Ignore PHPStorm project files.
-/.idea
